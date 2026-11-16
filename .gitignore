@@ -1,0 +1,18 @@
+# 编译产物
+*.class
+out/
+target/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log
